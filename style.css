@@ -1,0 +1,38 @@
+.test {
+	color:red;
+	font-size:25px;
+	border-bottom:2px solid black;
+	border-right:2px solid black;
+	width:150px;
+	margin-top:20px;
+	box-shadow:10px 15px 10px black;
+	background-color:rgba(20,25,9,0.2);
+	cursor:context-menu;
+	font-family:"Indie+Flower"
+
+}
+
+.navbar-brand {
+	cursor:context-menu;
+	
+}
+
+.navbar-brand:hover {
+    background-color: rgba(200,80,30,0.8);
+}
+
+img {
+	width:300px;
+	height:200px;
+	margin-top:30px;
+	padding:10px;
+	transition: all 1s;
+}
+.container {
+	display:flex;
+	flex-wrap:wrap-reverse;
+	justify-content:flex-start;
+}
+img:hover {
+	transform:scale(1.1);
+}

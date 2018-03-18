@@ -1,0 +1,12 @@
+body {
+	background-color:rgba(0,0,255,0.4);
+}
+
+.id {
+	margin-bottom:10px;
+	border:2.5px solid blue;
+}
+.pass {
+	border:2.5px solid blue;
+}
+
